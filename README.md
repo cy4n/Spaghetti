@@ -43,15 +43,26 @@ $ python spaghetti.py --help
   - Disclosure
     - Emails
     - IP
-  - Apache ModStatus
-  - Backdoors
-  - Backup
-  - Captcha
-  - Common Directories
-  - Common Files
-  - Cookie Security
-  - Multiple Index
-  - Information Disclosure (Emails and Private IP)
+  
+  - Injection
+    - HTML
+    - SQL 
+    - LDAP 
+    - XPath
+    - XSS
+    - RFI
+    - PHP Code
+    
+  - Other
+    - Allow Methods
+    - HTML Object
+    - Multiple Index
+    - Robots Paths
+    - Cookie Security
+    
+  - Vulns
+    - ShellShock
+    - Struts-Shock
 
 ## Screenshots
 ![screen1](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/screenshot_1.png)
