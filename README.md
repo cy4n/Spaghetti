@@ -24,6 +24,11 @@ $ python spaghetti.py --help
   - Content Management System (CMS) (Drupal,Joomla,Wordpress,Magento)
   - Operating System (Linux,Unix,Windows,...)
   - Language (PHP,Ruby,Python,ASP,...)
+ 
+ ```
+ Example: python spaghetti.py --url target.com --scan 0 --random-agent --verbose
+ ```
+ ![fingerprints](https://raw.githubusercontent.com/m4ll0k/Spaghetti/master/screens/screen2.png)
 
 - Discovery:
   
