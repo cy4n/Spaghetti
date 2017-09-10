@@ -17,14 +17,15 @@ $ python spaghetti.py --help
 ## Features
 - Fingerprints
   - Server
-  - Frameworks (CakePHP,CherryPy,Django,...)
-  - Firewall (Cloudflare,AWS,Barracuda,...)
-  - CMS (Drupal,Joomla,Wordpress)
-  - OS (Linux,Unix,Windows,...)
+  - Web Frameworks (CakePHP,CherryPy,Django,...)
+  - Web Application Firewall (Waf) (Cloudflare,AWS,Barracuda,...)
+  - Content Management System (CMS) (Drupal,Joomla,Wordpress,Magento)
+  - Operating System (Linux,Unix,Windows,...)
   - Language (PHP,Ruby,Python,ASP,...)
 
 - Discovery:
   - Admin Panel
+    - ff
   - Apache Enumeration Users
   - Apache XSS
   - Apache ModStatus
