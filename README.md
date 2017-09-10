@@ -6,6 +6,8 @@
 ## Description
 Spaghetti is a web application security scanner tool. It is designed to find various default and insecure files, configurations and misconfigurations. Spaghetti is built on python2.7 and can run on any platform which has a Python environment.
 
+![main](https://raw.githubusercontent.com/m4ll0k/Spaghetti/master/screens/screen1.png)
+
 ## Installation
 ```
 $ git clone https://github.com/m4ll0k/Spaghetti.git
