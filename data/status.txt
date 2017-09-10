@@ -1,0 +1,7 @@
+server-status
+server_status
+serverstatus
+mod-status
+mod_status
+modstatus
+status
