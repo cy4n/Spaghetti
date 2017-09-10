@@ -24,11 +24,13 @@ $ python spaghetti.py --help
   - Language (PHP,Ruby,Python,ASP,...)
 
 - Discovery:
+  
   - Apache
     - Apache (mod_userdir)
     - Apache (mod_status)
     - Apache multiviews
     - Apache xss
+  
   - Broken Auth./Session Management
     - Admin Panel
     - Backdoors
@@ -37,7 +39,10 @@ $ python spaghetti.py --help
     - Common Directory
     - Common File
     - Log File
-  - Apache XSS
+  
+  - Disclosure
+    - Emails
+    - IP
   - Apache ModStatus
   - Backdoors
   - Backup
