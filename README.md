@@ -10,8 +10,8 @@ Spaghetti is a web application security scanner tool. It is designed to find var
 ```
 $ git clone https://github.com/m4ll0k/Spaghetti.git
 $ cd Spaghetti 
-$ pip install -r doc/requirements.txt
-$ python spaghetti.py -h 
+$ pip install -r requirements.txt
+$ python spaghetti.py --help
 ```
 
 ## Features
