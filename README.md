@@ -70,3 +70,7 @@ $ python spaghetti.py --help
   - Vulns
     - ShellShock
     - Struts-Shock
+ ```
+ Example: python spaghetti.py --url target.com --scan 1 --random-agent --verbose
+ ```
+ ![screen3](https://raw.githubusercontent.com/m4ll0k/Spaghetti/master/screens/screen3.png)
