@@ -73,4 +73,4 @@ $ python spaghetti.py --help
  ```
  Example: python spaghetti.py --url target.com --scan 1 --random-agent --verbose
  ```
- ![screen3](Spaghetti/screens/screen_3.png)
+ ![screen3](https://raw.githubusercontent.com/m4ll0k/Spaghetti/master/screens/screen_3.png)
