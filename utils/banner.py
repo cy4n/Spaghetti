@@ -44,7 +44,7 @@ class Banner:
 		print "\t\t2:\tDisclosure (IP and Emails)"
 		print "\t\t3:\tInjection (SQL,LDAP...)"
 		print "\t\t4:\tOther (Allow Method,...)"
-		print "\t\t5:\tKnown Vulns (Shellsock and Struts)\n"
+		print "\t\t5:\tKnown Vulns (Shellshock and Struts)\n"
 		print "\t--agent\t\tUse the specified user-agent"
 		print "\t--random-agent\tUse a random user-agent"
 		print "\t--redirect\tRedirect Target URL, default=True"
